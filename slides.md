@@ -10,7 +10,30 @@
 
 ----  ----
 
-<!--Intro Slide-->
+# Community Topics
+
+* InfoSecNZ Slack, OWASP Slack
+* purpleteam now in alpha and pre-releases being published regularly
+* Anything else people want to mention?
+
+----
+
+# What do you want from OWASP Chch this year?
+
+We have 3 slots left for this year
+
+Ideas for meetups:
+
+* Talk and workshop 3 things that Devs can do in their Sprints to improve their security, possibly a series of these?
+* Session on what a good build pipeline looks like
+* A walk through of the new OWASP API Security Top 10 and how they compare with the OWASP Top 10 Web Application Security Risks
+* Threat modelling code, how to do it? how to get the most out of it?
+* OWASP tooling and all the new projects that are happening
+* Anyone got a topic they'd like to talk or workshop on?
+
+Any others? Vote on these?
+
+----  ----
 
 # OWASP Meetup Covid
 
