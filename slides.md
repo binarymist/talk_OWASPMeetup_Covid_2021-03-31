@@ -10,7 +10,7 @@
 
 ----  ----
 
-# Community Topics
+## Community Topics
 
 * InfoSecNZ Slack, OWASP Slack
 * purpleteam now in alpha and pre-releases being published regularly
@@ -18,11 +18,13 @@
 
 ----
 
-# What do you want from OWASP Chch this year?
+## What do you want from OWASP Chch this year?
 
-We have 3 slots left for this year
+<div style="text-align:left">We have 3 slots left for this year</div>
 
-Ideas for meetups:
+<div style="text-align:left">Ideas for meetups...</div>
+
+----
 
 * Talk and workshop 3 things that Devs can do in their Sprints to improve their security, possibly a series of these?
 * Session on what a good build pipeline looks like
@@ -30,8 +32,6 @@ Ideas for meetups:
 * Threat modelling code, how to do it? how to get the most out of it?
 * OWASP tooling and all the new projects that are happening
 * Anyone got a topic they'd like to talk or workshop on?
-
-Any others? Vote on these?
 
 ----  ----
 
